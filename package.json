@@ -71,6 +71,7 @@
     "lazy-property": "~1.0.0",
     "libcipm": "^1.6.0",
     "libnpx": "^10.0.1",
+    "libprecious": "^1.9.0",
     "lockfile": "~1.0.3",
     "lodash._baseuniq": "~4.6.0",
     "lodash.clonedeep": "~4.5.0",
@@ -242,7 +243,8 @@
     "wrappy",
     "write-file-atomic",
     "safe-buffer",
-    "worker-farm"
+    "worker-farm",
+    "libprecious"
   ],
   "devDependencies": {
     "deep-equal": "~1.0.1",
